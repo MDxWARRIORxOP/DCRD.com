@@ -18,13 +18,13 @@ export default () => {
       </p>
       <ul>
         <li>
-          <Link href="/addABot">Get started with adding a bot.</Link>
+          <Link href="/docs/addABot">Get started with adding a bot.</Link>
         </li>
         <li>
-          <Link href="/addAServer">Get started with adding a server.</Link>
+          <Link href="/docs/addAServer">Get started with adding a server.</Link>
         </li>
         <li>
-          <Link href="/addAnEmoji">Get started with adding an emoji.</Link>
+          <Link href="/docs/addAnEmoji">Get started with adding an emoji.</Link>
         </li>
       </ul>
     </uniux.Main>
