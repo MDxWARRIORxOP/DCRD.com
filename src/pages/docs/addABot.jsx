@@ -7,9 +7,9 @@ export default () => {
     <uniux.Main
       type="columnedApp"
       appConfig={appConfig}
-      page={appConfig.pageConfigs.getStarted}
+      page={appConfig.pageConfigs.addABot}
     >
-      <h1>Wassup</h1>
+      <h1>Get started with add your discord bot to the list.</h1>
     </uniux.Main>
   );
 };
