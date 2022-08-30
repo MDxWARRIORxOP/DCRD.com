@@ -1,0 +1,34 @@
+{
+  "name": "DCRD.com",
+  "private": true,
+  "description": "A discord bot list + a discord server list + a discord emoji list..",
+  "version": "1.0.1",
+  "author": "Kingerious",
+  "dependencies": {
+    "gatsby": "^4.21.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "uniux": "3.9.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "keywords": ["discordBotList", "discordEmojiList", "discordServerList"],
+  "license": "",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\"",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+}
